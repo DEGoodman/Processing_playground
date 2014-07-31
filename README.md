@@ -1,1 +1,1 @@
-Some Processing files. Both currently present are pieces designed for a creative computing class
+This is a collection of Processing projects. Most are finished.
